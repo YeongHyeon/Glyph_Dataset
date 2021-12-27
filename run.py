@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 from PIL import Image,ImageDraw,ImageFont
+from skimage.transform import resize
 
 def make_dir(path, refresh=False):
 
@@ -92,8 +93,7 @@ def main():
 
     list_ttf = sorted_list(path=os.path.join(FLAGS.dir_ttf, '*.ttf'))
 
-    img_size = FLAGS.size_img
-    chara_size = img_size
+    img_size, chara_size = 224, 224
 
     ftxt = open(FLAGS.path_txt, 'r')
     contents = ftxt.readlines()
@@ -141,6 +141,10 @@ def main():
                         aln_img[aln_hs:aln_he, aln_ws:aln_we] = tmp_img[idx_hs:idx_he, idx_ws:idx_we]
 
                         save_name = "%s_%s.png" %(tmp_char, ord(tmp_char))
+
+                        if(img_size > FLAGS.size_img):
+                            aln_img = resize(aln_img, (FLAGS.size_img, FLAGS.size_img))
+
                         plt.imsave( \
                             os.path.join(save_dir, save_subdir, save_name), aln_img, cmap='gray')
                         np.save( \
