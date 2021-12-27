@@ -21,21 +21,21 @@ Glyph Dataset
   <img src="./figures/Absolute Borsalino/D_68.png" width="80">
   <img src="./figures/Absolute Borsalino/E_69.png" width="80">
   <img src="./figures/Absolute Borsalino/F_70.png" width="80">
-  <img src="./figures/Absolute Borsalino/G_71.png" width="80">
+  <img src="./figures/Absolute Borsalino/G_71.png" width="80"></br>
   <img src="./figures/Absolute Borsalino/H_72.png" width="80">
   <img src="./figures/Absolute Borsalino/I_73.png" width="80">
   <img src="./figures/Absolute Borsalino/J_74.png" width="80">
   <img src="./figures/Absolute Borsalino/K_75.png" width="80">
   <img src="./figures/Absolute Borsalino/L_76.png" width="80">
-  <img src="./figures/Absolute Borsalino/M_77.png" width="80"></br>
-  <img src="./figures/Absolute Borsalino/N_78.png" width="80">
+  <img src="./figures/Absolute Borsalino/M_77.png" width="80">
+  <img src="./figures/Absolute Borsalino/N_78.png" width="80"></br>
   <img src="./figures/Absolute Borsalino/O_79.png" width="80">
   <img src="./figures/Absolute Borsalino/P_80.png" width="80">
   <img src="./figures/Absolute Borsalino/Q_81.png" width="80">
   <img src="./figures/Absolute Borsalino/R_82.png" width="80">
   <img src="./figures/Absolute Borsalino/S_83.png" width="80">
   <img src="./figures/Absolute Borsalino/T_84.png" width="80">
-  <img src="./figures/Absolute Borsalino/U_85.png" width="80">
+  <img src="./figures/Absolute Borsalino/U_85.png" width="80"></br>
   <img src="./figures/Absolute Borsalino/V_86.png" width="80">
   <img src="./figures/Absolute Borsalino/W_87.png" width="80">
   <img src="./figures/Absolute Borsalino/X_88.png" width="80">
