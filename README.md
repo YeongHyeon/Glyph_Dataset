@@ -43,5 +43,34 @@ Glyph Dataset
   <img src="./figures/Absolute Borsalino/Z_90.png" width="100"></br>
 </div>
 
+<div align="center">
+  <img src="./figures/Bougenville/A_65.png" width="100">
+  <img src="./figures/Bougenville/B_66.png" width="100">
+  <img src="./figures/Bougenville/C_67.png" width="100">
+  <img src="./figures/Bougenville/D_68.png" width="100">
+  <img src="./figures/Bougenville/E_69.png" width="100">
+  <img src="./figures/Bougenville/F_70.png" width="100">
+  <img src="./figures/Bougenville/G_71.png" width="100"></br>
+  <img src="./figures/Bougenville/H_72.png" width="100">
+  <img src="./figures/Bougenville/I_73.png" width="100">
+  <img src="./figures/Bougenville/J_74.png" width="100">
+  <img src="./figures/Bougenville/K_75.png" width="100">
+  <img src="./figures/Bougenville/L_76.png" width="100">
+  <img src="./figures/Bougenville/M_77.png" width="100">
+  <img src="./figures/Bougenville/N_78.png" width="100"></br>
+  <img src="./figures/Bougenville/O_79.png" width="100">
+  <img src="./figures/Bougenville/P_80.png" width="100">
+  <img src="./figures/Bougenville/Q_81.png" width="100">
+  <img src="./figures/Bougenville/R_82.png" width="100">
+  <img src="./figures/Bougenville/S_83.png" width="100">
+  <img src="./figures/Bougenville/T_84.png" width="100">
+  <img src="./figures/Bougenville/U_85.png" width="100"></br>
+  <img src="./figures/Bougenville/V_86.png" width="100">
+  <img src="./figures/Bougenville/W_87.png" width="100">
+  <img src="./figures/Bougenville/X_88.png" width="100">
+  <img src="./figures/Bougenville/Y_89.png" width="100">
+  <img src="./figures/Bougenville/Z_90.png" width="100"></br>
+</div>
+
 ## Reference
 [1] 1001 Free Fonts: https://www.1001freefonts.com/  
