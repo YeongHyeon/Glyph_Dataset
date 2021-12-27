@@ -142,7 +142,7 @@ def main():
 
                         save_name = "%s_%s.png" %(tmp_char, ord(tmp_char))
 
-                        if(img_size > FLAGS.size_img):
+                        if(img_size != FLAGS.size_img):
                             aln_img = resize(aln_img, (FLAGS.size_img, FLAGS.size_img))
 
                         plt.imsave( \
