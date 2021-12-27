@@ -1,7 +1,9 @@
 Glyph Dataset
 =====
+
 ## Usage
 
+### Execution
 ```
 > run.py
 ```
@@ -13,7 +15,18 @@ Glyph Dataset
 |path_txt|path of the input text|text.txt|
 |size_img|size for the output image|224|
 
-## Center alignment
+### Structure of 'dir_ttf'
+```
+dir_ttf
++-- 1.ttf
++-- 2.ttf
++   ...
++-- N.ttf
+```
+
+## Feature
+
+### Center alignment
 <div align="center">
   <img src="./figures/Absolute Borsalino/A_65.png" width="100">
   <img src="./figures/Absolute Borsalino/B_66.png" width="100">
